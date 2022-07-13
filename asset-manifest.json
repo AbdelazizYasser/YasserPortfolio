@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/YasserPortfolio/static/css/main.f502e5fb.chunk.css",
-    "main.js": "/YasserPortfolio/static/js/main.8731256e.chunk.js",
-    "main.js.map": "/YasserPortfolio/static/js/main.8731256e.chunk.js.map",
+    "main.js": "/YasserPortfolio/static/js/main.76ff3fdd.chunk.js",
+    "main.js.map": "/YasserPortfolio/static/js/main.76ff3fdd.chunk.js.map",
     "runtime-main.js": "/YasserPortfolio/static/js/runtime-main.8a750862.js",
     "runtime-main.js.map": "/YasserPortfolio/static/js/runtime-main.8a750862.js.map",
-    "static/js/2.4d7dd40a.chunk.js": "/YasserPortfolio/static/js/2.4d7dd40a.chunk.js",
-    "static/js/2.4d7dd40a.chunk.js.map": "/YasserPortfolio/static/js/2.4d7dd40a.chunk.js.map",
+    "static/js/2.ceb6b6c3.chunk.js": "/YasserPortfolio/static/js/2.ceb6b6c3.chunk.js",
+    "static/js/2.ceb6b6c3.chunk.js.map": "/YasserPortfolio/static/js/2.ceb6b6c3.chunk.js.map",
     "index.html": "/YasserPortfolio/index.html",
-    "precache-manifest.9423eaba5221701e1238095ef1acae9f.js": "/YasserPortfolio/precache-manifest.9423eaba5221701e1238095ef1acae9f.js",
+    "precache-manifest.59d88c4b324146159c86919d36e45e30.js": "/YasserPortfolio/precache-manifest.59d88c4b324146159c86919d36e45e30.js",
     "service-worker.js": "/YasserPortfolio/service-worker.js",
     "static/css/main.f502e5fb.chunk.css.map": "/YasserPortfolio/static/css/main.f502e5fb.chunk.css.map",
     "static/media/index.css": "/YasserPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -23,6 +23,8 @@
     "static/media/contactMail.png": "/YasserPortfolio/static/media/contactMail.5f915405.png",
     "static/media/data_science.svg": "/YasserPortfolio/static/media/data_science.e26c2f81.svg",
     "static/media/deeplearning_ai_logo.png": "/YasserPortfolio/static/media/deeplearning_ai_logo.75a7107b.png",
+    "static/media/desnower1.png": "/YasserPortfolio/static/media/desnower1.9bef4fc8.png",
+    "static/media/desnower2.png": "/YasserPortfolio/static/media/desnower2.3c2ab221.png",
     "static/media/developerActivity.svg": "/YasserPortfolio/static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "/YasserPortfolio/static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "/YasserPortfolio/static/media/education.3bab7a9d.svg",
@@ -62,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8a750862.js",
-    "static/js/2.4d7dd40a.chunk.js",
+    "static/js/2.ceb6b6c3.chunk.js",
     "static/css/main.f502e5fb.chunk.css",
-    "static/js/main.8731256e.chunk.js"
+    "static/js/main.76ff3fdd.chunk.js"
   ]
 }
