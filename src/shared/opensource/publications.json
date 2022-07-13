@@ -3,7 +3,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Alshareed app",
-      "description": "Paper Written",
+      "description": "Technology: #KOTLIN #JETPACK #CLEAN-ARCHITECTURE",
       "img1": "alshareed1.png",
       "img2": "alshareed2.png",
       "url": ""
@@ -11,7 +11,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
       "name": "ODoctor app",
-      "description": "Paper Written",  
+      "description": "Technology: #KOTLIN #JETPACK #MAPS #FIREBASE",
       "img1": "odoctor1.jpg",
       "img2": "odoctor2.jpg",
       "url": ""
@@ -19,7 +19,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
       "name": "ODoctor Service app",
-      "description": "Paper Written",
+      "description": "Technology: #KOTLIN #JETPACK #MAPS #FIREBASE",
       "img1": "odoctors1.jpg",
       "img2": "odoctors2.jpg",
       "url": ""
@@ -27,7 +27,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
       "name": "Shoof app",
-      "description": "Shoof app",
+      "description": "Technology: #KOTLIN #JETPACK #MAPS #FIREBASE",
       "img1": "shoof1.jpg",
       "img2": "shoof2.jpg",
       "url": ""
@@ -35,7 +35,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
       "name": "Shoof Sevice app",
-      "description": "Shoof Service app",
+      "description": "Technology: #KOTLIN #JETPACK #MAPS #FIREBASE",
       "img1": "shoofs1.jpg",
       "img2": "shoofs2.jpg",
       "url": ""
@@ -43,17 +43,17 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
       "name": "Desnow app",
-      "description": "Paper Written",
-      "img1": "alshareed1.png",
-      "img2": "alshareed1.png",
+      "description": "Technology: #KOTLIN #JETPACK #MAPS #FIREBASE #STRIPE",
+      "img1": "desnow1.jpg",
+      "img2": "desnow2.jpg",
       "url": ""
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      "name": "Artificial Intelligence Paper",
-      "description": "Desnower app",
-      "img1": "alshareed1.png",
-      "img2": "alshareed1.png",
+      "name": "Desnower app",
+      "description": "Technology: #KOTLIN #JETPACK #MAPS #FIREBASE #STRIPE",
+      "img1": "desnower1.png",
+      "img2": "desnower2.png",
       "url": ""
     }
   ]

@@ -2,18 +2,18 @@
 
 // Website related settings
 const settings = {
-  isSplash: false, // Change this to false if you don't want Splash screen.
+  isSplash: true, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
   title: "Yasser's Portfolio",
   description:
-    "A passionate Native Android Developer 🚀 having an experience of building Android applications with Kotlin / Java and some other cool libraries and new technologies.",
+    "A passionate Software Engineer and Native Android Developer 🚀 having an experience of building Android applications with Kotlin / Java and some other cool libraries and clean-architecture.",
   og: {
     title: "Abdelaziz Yasser Portfolio",
     type: "website",
-    url: "https://github.com/AbdelazizYasser",
+    url: "https://abdelazizyasser.github.io/YasserPortfolio/",
   },
 };
 
@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "AbdelazizYasser",
   nickname: "Zakaria",
   subTitle:
-    "A passionate Native Android Developer 🚀 having an experience of building Android applications with Kotlin / Java and some other cool libraries and new technologies.",
+    "A passionate Software Engineer and Native Android Developer 🚀 having an experience of building Android applications with Kotlin / Java and some other cool libraries and clean-architecture.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/17YepyCdfPHDVFBFjqIXTFx9Co2uHbG4y/view?usp=sharing",
   githubProfile: "https://github.com/AbdelazizYasser",
 };
 
@@ -91,7 +91,7 @@ const skills = {
       skills: [
         "⚡ Developing native Android apps using Kotlin & Java",
         "⚡ Building responsive UI using Jetpack-compose & XML",
-        "⚡ Creating application databases using Room-Database",
+        "⚡ Creating applications database using Room-Database",
         "⚡ Integrating Apis in Android apps using cool libraries",
         "⚡ Building clean-architecture based on Design pattern principles"
       ],
@@ -247,8 +247,8 @@ const skills = {
       fileName: "DesignImg",
       skills: [
         "⚡ Designing highly attractive user interface for mobile applications",
-        "⚡ Customizing logo designs and building logos from scratch",
         "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Customizing logo designs and building logos from scratch",
       ],
       softwareSkills: [
         {
@@ -472,7 +472,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "yasser_animated.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "",
   },
   addressSection: {
     title: "Address",
@@ -491,7 +491,7 @@ const contactPageData = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Android applications and publish them to Play Store.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -502,7 +502,7 @@ export {
   socialMediaLinks,
   skills,
   degrees,
-    projectsHeader,
+  projectsHeader,
   experience,
   contactPageData,
 };

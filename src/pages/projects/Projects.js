@@ -6,6 +6,7 @@ import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
 import PublicationData from "../../shared/opensource/publications.json";
 import "./Projects.css";
+import { projectsHeader } from "../../portfolio.js";
 import ProjectsImg from "./ProjectsImg";
 
 class Projects extends Component {
@@ -29,13 +30,13 @@ class Projects extends Component {
                   className="projects-heading-text"
                   style={{ color: theme.text }}
                 >
-                  {'Apps'}
+                  {projectsHeader.title}
                 </h1>
                 <p
                   className="projects-header-detail-text subTitle"
                   style={{ color: theme.secondaryText }}
                 >
-                  {'new tecks'}
+                  {projectsHeader.description}
                 </p>
               </div>
             </div>
@@ -51,7 +52,7 @@ class Projects extends Component {
                   style={{ color: theme.text }}
                 >
               
-            AAA
+            Android apps
                 </h1>
                 <p
                   className="projects-header-detail-text subTitle"
