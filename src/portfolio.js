@@ -17,7 +17,7 @@ const seo = {
   },
 };
 
-//Home Page
+//Home Page//
 const greeting = {
   title: "Abdelaziz Yasser",
   logo_name: "AbdelazizYasser",
