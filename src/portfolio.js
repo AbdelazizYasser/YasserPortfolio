@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate Software Engineer and Native Android Developer 🚀 having an experience of building Android applications with Kotlin / Java and some other cool libraries and clean-architecture.",
   resumeLink:
-    "https://drive.google.com/file/d/17YepyCdfPHDVFBFjqIXTFx9Co2uHbG4y/view?usp=sharing",
+    "https://drive.google.com/file/d/15E2EEWCWo7IuJ9Lfp_AOkaTwAG6_qygz/view?usp=share_link",
   githubProfile: "https://github.com/AbdelazizYasser",
 };
 
