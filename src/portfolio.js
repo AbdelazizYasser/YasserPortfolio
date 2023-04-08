@@ -4,7 +4,7 @@
 const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
 };
-
+// seo
 //SEO Related settings
 const seo = {
   title: "Yasser's Portfolio",
